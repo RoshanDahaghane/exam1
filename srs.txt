@@ -1,0 +1,13 @@
+Functional Requirements: 
+ 	Any anonymous user will be able to view different tickets options available for 
+that specific week with multiple route options. According to customer's requirement 
+the customer could book the tickets through different transportation modes  such as airway,bus,train.
+	Any customers will be able to see details of any mode of transportation which are available for that route.
+Office staff will be able to schedule modes of transportation for that route by updating information on website.
+Staff will be able to approve or reject request for selected location , seat , mode , etc. selected by customer.Staff will be able to extend and reduce the number of transportation mode if frequency of people is low.
+Anonymous customers can see all the transportation details ,available seats or mode also but at the time ticket booking they need to register first.Register customers can book any number available seats and also they can check price of ticket.Register customer can book the ticket before 1 week and cancel their booked ticket 1day before journey time to get 100% refund.
+Register customer are able to get transactions history. They can also get journey details etc.
+Register customers can do their payment by online mode using upi and other payment gateways.
+Management staff are able to refund payment of Register customer if customer cancel their ticket before 1day. of show time.
+
+Management staff have authority not to refund payment if Register customer not cancel ticket before 1 day of journey time.Register customer will get notified about journey details and transaction details via email and messages.Dashboard will provide list of journey, after selecting specific route and mode. dashboard will provide information of available seats, customer  rating. System and Technical team (IT Operations team) will be able monitor system operations by monitoring logs maintained.

@@ -1,0 +1,23 @@
+business entity's
+
+1)customer,
+2)booking office 
+3)booking counter
+4)canteen
+
+
+operations:-
+1)select the route 
+2) find if ay mode of transportation is available for that route
+3)select the mode of transporataion 
+4)find the fare 
+5)book the ticket
+6)select transactions mode
+7)complete the payment
+8)notify the customer
+9)mail the ticket to the customer
+	
+
+
+
+
